@@ -1,4 +1,4 @@
-command to create react app -> npx create-react-app
+Command to create react app -> npx create-react-app
 
 React Fiber -> Ability to pause, abort or reuse work as new update comes in, also the ability to assign priority to different types of updates
 
